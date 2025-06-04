@@ -1,2 +1,3 @@
-# .github
-Organization readme
+# Markwhen
+
+[Documentation](https://docs.markwhen.com)
